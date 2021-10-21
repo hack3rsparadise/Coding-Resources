@@ -10,6 +10,7 @@
 
 - [Massachusetts Institute of Technology OpenCourseWare](https://youtube.com/c/mitocw)
 - [CS50 Harvard University](https://youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
+- [IIT Madras BSc Programme](https://youtube.com/channel/UCvKzzGO37oT83K0FwnUucxw)
 
 ### Experts
 
