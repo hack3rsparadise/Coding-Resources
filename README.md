@@ -8,6 +8,7 @@
 
 ### Universities
 
+- [Massachusetts Institute of Technology OpenCourseWare](https://youtube.com/c/mitocw)
 - [CS50 Harvard University](https://youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
 
 ### Experts
