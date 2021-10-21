@@ -1,4 +1,4 @@
-# Table of Contents
+# Computer Science
 
 - [YouTube Channels](#youtube-courses)
 
