@@ -1,5 +1,3 @@
-# Computer Science
-
 - [YouTube Channels](#youtube-courses)
 
 ---
