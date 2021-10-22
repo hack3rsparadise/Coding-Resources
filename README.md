@@ -6,6 +6,8 @@
 
 ## YouTube Courses
 
+Recommending to watch experts courses instead of university courses.
+
 ### Universities
 
 - [Massachusetts Institute of Technology OpenCourseWare](https://youtube.com/c/mitocw)
